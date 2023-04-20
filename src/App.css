@@ -5,5 +5,5 @@
 @import "tailwindcss/utilities";
 
 body{
-    overflow: hidden;
+    overflow: auto;
 }

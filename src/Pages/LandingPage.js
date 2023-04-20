@@ -202,7 +202,7 @@ export default function LandingPage() {
 
   return (
     <div
-      style={{ backgroundColor: "black", height: "102vh", paddingTop: "15px" }}
+      style={{ backgroundColor: "black", height: "105vh", paddingTop: "15px" }}
     >
       <h1
         style={{
@@ -268,6 +268,9 @@ export default function LandingPage() {
           {outputDetail && <OutputDetail outputDetails={outputDetail} />}
         </div>
       </div>
+      <p style={{ textAlign: "center", color: "white" }}>
+        Developed with ❤️ by Sahil Rohera
+      </p>
     </div>
   );
 }
