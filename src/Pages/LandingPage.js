@@ -202,7 +202,7 @@ export default function LandingPage() {
 
   return (
     <div
-      style={{ backgroundColor: "black", height: "105vh", paddingTop: "15px" }}
+      style={{ backgroundColor: "black", height: "100%", paddingTop: "15px" }}
     >
       <h1
         style={{
